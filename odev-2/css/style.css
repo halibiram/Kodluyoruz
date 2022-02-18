@@ -1,0 +1,63 @@
+
+.img {
+    
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+.container-search {
+    text-align: center;
+    background: #EEEEEE;
+    
+    margin: 2px 75px;
+
+}
+
+.p-style {
+    margin: 0px auto;
+    text-align: center;
+}
+
+.left-card {
+    background-color: #7EE5DA;
+    text-align: center;
+    float: left;
+    width: 37%;
+    padding: 10px;
+    
+    margin-right:1.5px;
+    
+}
+.center-card {
+    text-align: center;
+    float: left;
+    background-color: #70CCC2;
+    width: 16.7%;
+    padding: 7px 10px;
+    margin-right: 1.5px;
+
+}
+.right-card {
+    text-align: center;
+    float: left;
+    background-color: #62B3AA;
+    width: 41.7%;
+    height: 75;
+    padding: 10px;
+    padding-top: 0px;
+    padding-bottom: 0.5px;
+    
+}
+
+.font-small {
+    font-size: small;
+}
+
+.clear {
+    clear: both;
+}
+.mid {
+    margin: auto 75px;
+}
+
